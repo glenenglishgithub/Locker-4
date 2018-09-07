@@ -4,6 +4,10 @@ H18-004 committed to mfr 8 September 2018
 
 redesigned  to make manufacturing cheaper - 2 layer 1mm FR4 board with 0603 parts, mostly.
 
+This unit is for radios with reference oscillators that can be pulled.
+(There is another Locker- H18-006 which is a DDS based device that can accept 1pps or 5 to 15 MHz. (nom 10M) )
+
+
 *******
 
 
